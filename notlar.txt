@@ -1,0 +1,36 @@
+Terminal Kullanma
+
+ls -> hangi klasördeysen içindenki dosya ve klasörleri gösterir
+
+pwd -> güncel olarak bulunduğun klasörü gösterir
+
+cd *girmek istediğin dosya adı* -> dosya/klasör içine girer
+
+cd .. -> bir önceki klasöre geri gel
+
+clear -> ekran temizler
+
+NOT: dosya adının bir kısmını yazdıktan sonra taba basarsan tamamlıyor
+
+mkdir *xx* -> xx isimli bir klasör oluşturur
+
+touch *xxx.yy* -> xxx.yy adlı bir dosya oluşturur
+
+rm *aa* -> aa adlı dosyayı siler
+
+NOT: rm sadece dosyaları siler
+
+rm -rf -> dosyaları siler
+
+**** GİT KOMUTLARI ****
+
+git config --global user.name -> kodu yazanın adı
+
+git config -global user.email -> kodu yazanın emaili
+
+git status -> güncel git durumunu gösterir
+
+git init -> git i başlatır
+
+
+
