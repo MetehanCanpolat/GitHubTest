@@ -32,9 +32,17 @@ git status -> güncel git durumunu gösterir
 
 git init -> git i başlatır
 
+git commit -> repoya atıyor
+
 git commit -m "mesaj" -> aralara yorum gibi
 
-git add -> 
+git add xx -> xx dosyasını veya xx teki değişiklikleri kaydetmek için
+
+git add . -> klasördeki bütün değişiklikleri ve eklentileri kaydetmek için
+
+git log -> commitleri görmek için
+
+
 
 
 
