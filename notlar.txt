@@ -32,5 +32,9 @@ git status -> güncel git durumunu gösterir
 
 git init -> git i başlatır
 
+git commit -m "mesaj" -> aralara yorum gibi
+
+git add -> 
+
 
 
