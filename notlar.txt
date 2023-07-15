@@ -42,6 +42,45 @@ git add . -> klasördeki bütün değişiklikleri ve eklentileri kaydetmek için
 
 git log -> commitleri görmek için
 
+.gitignore -> bu dosyayı oluşturup, görülmesini ya da commit edilmesini
+istemediğimiz dosyaları içine tam adıyla yazdığımızda ignore eder.
+
+
+git branch -> dalları gösterir
+
+git branch aa -> aa diye bir branch açar
+
+git switch aa -> aa branchına geçer
+
+git merge bb -> aa branckına bb branchındaki değişiklikleri birleştirmek istiyorsak bu komutla yaparız
+
+git restore xx -> xx dosyasının son commit edilmiş halini getirir
+
+git stash -> commit edilmesini veya add edilmesini o anlık istenmeyen şeylerin saklanması için
+
+git stash pop -> bunları tekrar çıkarmak için
+
+git stash list -> stashlediklerini terminalde gösterir
+
+git revert <commit> -> commitleri kompple silmez ama içerkileri siler
+
+git reset--hard <commit> -> içerikleri tamamen siler
+
+git diff <xxx>->  xx commitindeki değişiklileri gösterir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
