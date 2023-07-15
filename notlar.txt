@@ -68,7 +68,7 @@ git reset--hard <commit> -> içerikleri tamamen siler
 
 git diff <xxx>->  xx commitindeki değişiklileri gösterir
 
-git push -u origin main <branchın adı> -> github a yaptığımız değişiklikleri ve dosyaları
+git push -u origin <branchın adı> -> github a yaptığımız değişiklikleri ve dosyaları
 kaydetmek, yüklemek için kullanılır.
 
 
